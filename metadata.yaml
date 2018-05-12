@@ -1,0 +1,71 @@
+_repo: Un-billet-de-loterie--13--Le-num-ro-9672-_15203
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Verne, Jules
+    aliases:
+    - Verne, Jules Gabriël
+    - Verne, Jules Gabriel
+    - Verne, Júlio
+    birthdate: 1828
+    deathdate: 1905
+    gutenberg_agent_id: '60'
+    url: http://www.gutenberg.org/2009/agents/60
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Jules_Verne
+    - http://pt.wikipedia.org/wiki/Júlio_Verne
+    - http://en.wikipedia.org/wiki/Jules_Verne
+description: "A lottery is a form of gambling that involves the drawing of numbers\
+  \ for a prize. Lotteries are outlawed by some governments, while others endorse\
+  \ it to the extent of organizing a national or state lottery. It is common to find\
+  \ some degree of regulation of lottery by governments; the most common regulation\
+  \ is prohibition of sale to minors, and vendors must be licensed to sell lottery\
+  \ tickets. Though lotteries were common in the United States and some other countries\
+  \ during the 19th century, by the beginning of the 20th century, most forms of gambling,\
+  \ including lotteries and sweepstakes, were illegal in the U.S. and most of Europe\
+  \ as well as many other countries. This remained so until well after World War II.\
+  \ In the 1960s casinos and lotteries began to re-appear throughout the world as\
+  \ a means for governments to raise revenue without raising taxes.\nLotteries come\
+  \ in many formats. For example, the prize can be a fixed amount of cash or goods.\
+  \ In this format there is risk to the organizer if insufficient tickets are sold.\
+  \ More commonly the prize fund will be a fixed percentage of the receipts. A popular\
+  \ form of this is the \"50–50\" draw where the organizers promise that the prize\
+  \ will be 50% of the revenue. Many recent lotteries allow purchasers to select the\
+  \ numbers on the lottery ticket, resulting in the possibility of multiple winners.\n\
+  \ From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2005-02-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15203'
+  wikidata: Q1304875
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lotteries -- Fiction'
+- !lcc 'PQ'
+title: "Un billet de loterie\r\n(Le numéro 9672)"
+url: http://www.gutenberg.org/ebooks/15203
+wikipedia:
+- https://fr.wikipedia.org/wiki/Un_billet_de_loterie
+- https://ar.wikipedia.org/wiki/%D8%AA%D8%B0%D9%83%D8%B1%D8%A9_%D8%A7%D9%84%D9%8A%D8%A7%D9%86%D8%B5%D9%8A%D8%A8
+- https://or.wikipedia.org/wiki/%E0%AC%B2%E0%AC%9F%E0%AD%87%E0%AC%B0%E0%AD%80_%E0%AC%9F%E0%AC%BF%E0%AC%95%E0%AD%87%E0%AC%9F_,_%E0%AC%9C%E0%AD%81%E0%AC%B2%E0%AD%87%E0%AC%B8_%E0%AC%AD%E0%AC%B0%E0%AD%8D%E0%AC%A3_%E0%AC%89%E0%AC%AA%E0%AC%A8%E0%AD%8D%E0%AD%9F%E0%AC%BE%E0%AC%B8
+- https://pl.wikipedia.org/wiki/Los_na_loteri%C4%99
+- https://it.wikipedia.org/wiki/Un_biglietto_della_lotteria
+- https://cs.wikipedia.org/wiki/Los_%C4%8D%C3%ADslo_9672
+- https://fa.wikipedia.org/wiki/%D8%A8%D9%84%DB%8C%D8%AA_%D9%84%D8%A7%D8%AA%D8%A7%D8%B1%DB%8C
+- https://de.wikipedia.org/wiki/Ein_Lotterie-Los
+- https://es.wikipedia.org/wiki/Un_billete_de_loter%C3%ADa
+- https://hy.wikipedia.org/wiki/%D5%8E%D5%AB%D5%B3%D5%A1%D5%AF%D5%A1%D5%AD%D5%A1%D5%B2%D5%AB_%D5%BF%D5%B8%D5%B4%D5%BD_%E2%84%96_9672
+- https://en.wikipedia.org/wiki/The_Lottery_Ticket
+- https://commons.wikimedia.org/wiki/Category:Ticket_No._%229672%22
+- https://pt.wikipedia.org/wiki/Un_billet_de_loterie
+- https://ru.wikipedia.org/wiki/%D0%9B%D0%BE%D1%82%D0%B5%D1%80%D0%B5%D0%B9%D0%BD%D1%8B%D0%B9_%D0%B1%D0%B8%D0%BB%D0%B5%D1%82_%E2%84%96_9672
+- https://el.wikipedia.org/wiki/%CE%9F_%CE%9B%CE%B1%CF%87%CE%BD%CF%8C%CF%82_%CE%A5%CF%80%27_%CE%B1%CF%81%CE%B9%CE%B8._9672
+- https://ro.wikipedia.org/wiki/Un_bilet_de_loterie
+- https://fr.wikisource.org/wiki/Un_billet_de_loterie
