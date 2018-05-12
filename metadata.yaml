@@ -36,6 +36,8 @@ description: "A lottery is a form of gambling that involves the drawing of numbe
   \ will be 50% of the revenue. Many recent lotteries allow purchasers to select the\
   \ numbers on the lottery ticket, resulting in the possibility of multiple winners.\n\
   \ From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15203#Un-billet-de-loterie--13--Le-num-ro-9672-
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2005-02-28'
 gutenberg_type: Text
